@@ -86,7 +86,7 @@ console.log(addAges);
 
 // maps challenge
 
-let students = [
+let students1 = [
   {
       name: 'John',
       subjects: ['maths', 'english', 'cad'],
@@ -114,7 +114,7 @@ let students = [
 ];
 
 
-let [john, ...rest] = students.map( students => [students.name, students.results]);
+let [john, ...rest] = students1.map( students1 => [students1.name, students1.results]);
 
 console.log(john);
 console.log(rest);
