@@ -1,4 +1,4 @@
-  
+// EXECUTES A FUNCTION ON ALL ELEMENTS.
 /**
  * To run this file in Gitpod, use the 
  * command node map.js in the terminal
